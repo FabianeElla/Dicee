@@ -8,7 +8,7 @@
 
 ## Como Usar
 
-1. Abra o Sorteador de Dados em seu navegador.
+1. Abra o *[Dicee](https://fabianeella.github.io/Dicee/)* em seu navegador.
 2. Você verá uma interface simples com dois dados, um para o Player 1 e outro para o Player 2.
 3. Atualize a página para um novo lançamento de dados.
 4. Os números sorteados serão exibidos nos dados correspondentes.
